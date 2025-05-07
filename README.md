@@ -2,7 +2,7 @@
 
 ### 💻 Backend Developer | Python & Node.js | Scalable Systems Advocate
 
-I'm a backend developer with 2+ years of experience building scalable, high-performance systems using Python, Java, Docker, PostgreSQL, and MongoDB. I love solving complex technical challenges and making systems more efficient, sustainable, and maintainable.
+I'm a backend developer with 2+ years of experience building scalable, high-performance systems using Python, Node.js, MERN, Docker, PostgreSQL, and MongoDB. I love solving complex technical challenges(Basically I love solving peoblems) and making systems more efficient, sustainable, and maintainable.
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, TypeScript
@@ -13,9 +13,8 @@ I'm a backend developer with 2+ years of experience building scalable, high-perf
 - **Others:** Bash scripting, REST APIs, CI/CD, AWS basics
 
 ### 🚀 Recent Highlights
-- 🧠 Improving my Bash and Linux scripting through AI-assisted debugging and exploration.
+- 🧠 Improving my Bash and Linux scripting debugging and exploration.
 - 🤝 Actively growing in collaborative development — currently contributing to team-based projects with a focus on shared learning and clean code practices.
-- 🔧 Refactoring Slack integration tools to support multi-bot, multi-workspace systems dynamically using PostgreSQL.
 
 ### 📈 Learning & Growth
 I'm passionate about learning through doing — pairing hands-on experimentation with reflection. Lately, I've been integrating AI into my workflow to better understand abstract concepts and debug smarter.
